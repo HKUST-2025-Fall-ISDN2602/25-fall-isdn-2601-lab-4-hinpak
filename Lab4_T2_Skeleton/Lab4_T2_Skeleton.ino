@@ -2,8 +2,8 @@
 
 #define IN1   18  // Replace the ? with the GPIO pin you selected to connect IN1
 #define IN2   19   // Replace the ? with the GPIO pin you selected to connect IN2
-#define A  ？ // Replace the ? with the GPIO pin you selected to connect encoder A
-#define B  ？ // Replace the ? with the GPIO pin you selected to connect encoder B
+#define A  32 // Replace the ? with the GPIO pin you selected to connect encoder A
+#define B  33 // Replace the ? with the GPIO pin you selected to connect encoder B
 
 
 int A_data;
